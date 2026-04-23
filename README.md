@@ -10,7 +10,7 @@ Platform ini memfasilitasi transaksi aman, manajemen stok asimetris (pessimistic
 
 ---
 
-## 🏗 Tech Stack
+## Tech Stack
 
 Proyek ini menggunakan spesifikasi modern dengan fondasi:
 * **Framework:** Laravel 13
@@ -23,7 +23,7 @@ Proyek ini menggunakan spesifikasi modern dengan fondasi:
 
 ---
 
-## 🔥 Fitur Utama & Penyelesaian Tantangan Unik (CPMK-02)
+## Fitur Utama & Penyelesaian Tantangan Unik (CPMK-02)
 
 1. **Multi-Role Otorisasi:** Akses panel tersendiri dengan middleware ketat untuk 3 level pengguna (`Admin`, `Penjual`, `Pembeli`).
 2. **Persistent Shopping Cart (Tantangan 1):** Mekanisme keranjang belanja non-database menggunakan sistem `Session`. Data produk keranjang tersimpan stabil meskipun berpindah rute tanpa harus login terlebih dahulu.
@@ -36,7 +36,7 @@ Proyek ini menggunakan spesifikasi modern dengan fondasi:
 
 ---
 
-## ⚙️ Petunjuk Instalasi Step-by-Step
+## Petunjuk Instalasi Step-by-Step
 
 Agar aplikasi berjalan sempurna pada lingkungan lokal Anda, ikuti langkah-langkah instalasi berikut:
 
@@ -91,7 +91,7 @@ Agar aplikasi berjalan sempurna pada lingkungan lokal Anda, ikuti langkah-langka
 
 ---
 
-## 🔐 Kredensial Pengujian (Seeder Default)
+## Kredensial Pengujian (Seeder Default)
 
 Proses _seeding_ secara otomatis akan menciptakan 4 pengguna dan data tiruan siap pakai:
 
