@@ -104,5 +104,3 @@ Proses _seeding_ secara otomatis akan menciptakan 4 pengguna dan data tiruan sia
 
 Gunakan akses tersebut di `/login` untuk mengulas masing-masing _Dashboard_ dan alurnya secara utuh.
 
----
-*Dikembangkan dengan penuh dedikasi demi kelulusan Ujian CPMK-02. Berdoa yang terbaik!* 🚀
